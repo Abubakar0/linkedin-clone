@@ -1,0 +1,21 @@
+.headerop{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+    color: gainsboro;
+    cursor: pointer;
+}
+.headerop:hover{
+    color: black;
+}
+.title{
+    margin-top: 1px;
+    font-size: 12px;
+    font-weight: 400;
+}
+.headerop_icons{
+    width: 25px !important;
+    height: 25px !important;
+    object-fit: contain;
+}

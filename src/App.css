@@ -1,0 +1,12 @@
+.App_body {
+  display: flex;
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-left: 20px;
+  max-width: 1200px;
+}
+.App {
+  background-color: whitesmoke;
+  flex-direction: column;
+  align-items: center;
+}
